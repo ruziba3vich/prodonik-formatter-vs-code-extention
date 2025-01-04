@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/ruziba3vich/prodonik-formatter-extention.git"
   },
-  "icon": "recources/bin/icon.jpeg",
+  "icon": "resources/bin/icon.jpeg",
   "license": "MIT",
   "engines": {
     "vscode": "^1.96.0"
